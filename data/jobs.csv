@@ -1,0 +1,31 @@
+job_title,company,location,skills,salary_range,job_type,experience
+Data Analyst,Paytm,Delhi,Python|SQL|Excel|Tableau,4-6 LPA,Full Time,0-2 years
+ML Engineer,Zomato,Gurgaon,Python|Machine Learning|TensorFlow|SQL,8-12 LPA,Full Time,1-3 years
+Data Scientist,OYO,Delhi,Python|ML|NLP|Statistics,10-15 LPA,Full Time,2-4 years
+Data Analyst Intern,Naukri,Noida,Python|SQL|Excel,stipend 15k,Internship,0-1 years
+AI Engineer,MakeMyTrip,Gurgaon,Python|Deep Learning|NLP|AWS,12-18 LPA,Full Time,2-5 years
+Data Analyst,Snapdeal,Delhi,SQL|Excel|Power BI|Python,3-5 LPA,Full Time,0-2 years
+ML Intern,Ola,Gurgaon,Python|sklearn|Pandas|ML,stipend 20k,Internship,0-1 years
+Data Engineer,Info Edge,Noida,Python|SQL|Spark|AWS,7-10 LPA,Full Time,1-3 years
+AI Researcher,IIT Delhi,Delhi,Python|Research|NLP|PyTorch,stipend 25k,Internship,0-2 years
+Data Scientist,Policybazaar,Gurgaon,Python|Statistics|ML|SQL,8-14 LPA,Full Time,1-3 years
+ML Engineer Intern,Flipkart,Delhi,Python|ML|Pandas|sklearn,stipend 30k,Internship,0-1 years
+Business Analyst,HCL,Noida,SQL|Excel|Power BI|Tableau,4-7 LPA,Full Time,0-2 years
+Data Analyst,Wipro,Delhi,Python|SQL|Excel,3-5 LPA,Full Time,0-2 years
+NLP Engineer,Josh Talks,Delhi,Python|NLP|BERT|Transformers,6-10 LPA,Full Time,1-2 years
+Data Scientist Intern,Delhivery,Gurgaon,Python|ML|SQL|Statistics,stipend 18k,Internship,0-1 years
+ML Engineer,Bharti Airtel,Delhi,Python|TensorFlow|Deep Learning|SQL,10-16 LPA,Full Time,2-4 years
+Data Analyst Intern,ShareChat,Delhi,Python|SQL|Excel|Tableau,stipend 12k,Internship,0-1 years
+AI Engineer,Nykaa,Delhi,Python|ML|NLP|Docker,9-14 LPA,Full Time,1-3 years
+Data Scientist,Meesho,Gurgaon,Python|Statistics|ML|A/B Testing,10-18 LPA,Full Time,2-4 years
+ML Intern,Swiggy,Delhi,Python|sklearn|Pandas|Statistics,stipend 22k,Internship,0-1 years
+Data Analyst,Tech Mahindra,Noida,SQL|Python|Excel|Power BI,3-6 LPA,Full Time,0-2 years
+Computer Vision Engineer,InMobi,Delhi,Python|OpenCV|CNN|TensorFlow,12-20 LPA,Full Time,2-4 years
+Data Engineer Intern,Razorpay,Delhi,Python|SQL|ETL|Spark,stipend 25k,Internship,0-1 years
+ML Researcher,Saama Technologies,Noida,Python|Research|ML|Statistics,8-13 LPA,Full Time,1-3 years
+Data Scientist,Dream11,Delhi,Python|ML|Statistics|SQL,12-20 LPA,Full Time,2-5 years
+AI Intern,Vedantu,Delhi,Python|NLP|ML|Pandas,stipend 15k,Internship,0-1 years
+Data Analyst,Grofers,Gurgaon,SQL|Excel|Python|Tableau,4-6 LPA,Full Time,0-2 years
+MLOps Engineer,upGrad,Delhi,Python|Docker|MLflow|AWS,10-16 LPA,Full Time,2-4 years
+Data Science Intern,CureFit,Delhi,Python|ML|SQL|Pandas,stipend 20k,Internship,0-1 years
+NLP Intern,Vernacular AI,Delhi,Python|NLP|BERT|sklearn,stipend 18k,Internship,0-1 years
